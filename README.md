@@ -1,1 +1,1 @@
-# no-reqs-site
+# there are no requirements
